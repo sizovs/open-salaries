@@ -62,6 +62,7 @@
 ## Articles 👓
 - [Introducing Open Salaries at Buffer](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
 - [P2P Salary Review](http://blog.solidcraft.eu/2015/11/p2p-salary-review.html)
+- [Open Salaries: How](https://blog.lunarlogic.io/2015/open-salaries-how/)
 - [Salary Formula](https://management30.com/practice/salary-formula/)
 - [What business can learn from open source](http://www.paulgraham.com/opensource.html)
 - [Business models for open hardware](http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/)
