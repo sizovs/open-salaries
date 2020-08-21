@@ -26,6 +26,13 @@
 - [Sourcegraph](https://about.sourcegraph.com/handbook)
 - [Sparksuite](https://handbook.sparksuite.com)
 
+## Salary Formulas
+* [Buffer's Transparent Salary Calculator](https://buffer.com/salary)
+* [Gitlab - Global Compensation Calculator](https://about.gitlab.com/2018/03/23/gitlabs-global-compensation-calculator-the-next-iteration)
+* [Openclassrooms - Evolution And Salary](https://openclassrooms.com/en/courses/3851206-how-do-we-work-at-openclassrooms/6523261-evolution-and-salary)
+* [Payfit - Modèle de rémunération : pourquoi et comment l'élaborer ?](https://blog.payfit.com/modele-de-remuneration.html)
+* [Stackoverflow - How We Pay](https://stackoverflow.com/company/salary/calculator)
+
 ## Videos 🍿
 - [Peer to Peer Salary Review in a Corpo: Case Study](https://www.youtube.com/watch?v=vQMYjpjpelg)
 - [Open Salaries: from Employees to Managing Partners](https://www.youtube.com/watch?v=P7_dq2YiHJ8)
