@@ -6,6 +6,15 @@
 ## Resources and Communities 💡
 - [The Open Organization](//theopenorganization.org)
 
+## Companies
+
+| Company  | Culture Handbook  | Open Salary/Formula  |  Open Financials |  
+|---|---|---|---|
+| [Buffer](https://buffer.com/about)  | ✔️  | ✔️  | ✔️  |   
+| [Codurance](https://codurance.com/about-us/our-story/)  | ✔️  |  ✔️ |  ✔️ |   
+| [SoftwareMill](https://softwaremill.com/culture-of-remote-company/) | ✔️  | ✔️  | ✔️  |   
+| [SoftwareMill](https://softwaremill.com/culture-of-remote-company/) | ✔️  | ✔️  | ✔️  |   
+
 ## Open Culture Handbooks 📚 
 
 - [18F](https://github.com/18F/handbook)
@@ -35,8 +44,3 @@
 - [The second open company](https://medium.com/gratipay-blog/the-second-open-company-4cbab7ca1a47)
 - [Why open companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
 - [The open enterprise manifesto](http://www.opencompany.org/resources/whitepaper.pdf)
-
-## Companies
-- [Codurance](https://codurance.com/about-us/our-story/)
-- [Buffer](https://buffer.com/resources/revenue-dashboard/)
-- [SoftwareMill](https://blog.softwaremill.com/40-ceos-in-one-company-teal-organisation-interview-21124c34c16)
