@@ -27,6 +27,14 @@
 
 ## Articles 👓
 - [Introducing Open Salaries at Buffer](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
+- [What business can learn from open source](http://www.paulgraham.com/opensource.html)
+- [Business models for open hardware](http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/)
+- [Open source software and open content as models for eBusiness](http://www.rogerclarke.com/EC/Bled04.html)
+- [A business model for open source hardware](http://www.longtail.com/the_long_tail/2009/01/a-business-mode.html)
+- [Open-source business: Open, but not as usual](http://www.economist.com/node/5624944)
+- [The second open company](https://medium.com/gratipay-blog/the-second-open-company-4cbab7ca1a47)
+- [Why open companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
+- [The open enterprise manifesto](http://www.opencompany.org/resources/whitepaper.pdf)
 
 ## Companies
 - [Codurance](https://codurance.com/about-us/our-story/)
