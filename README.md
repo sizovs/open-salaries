@@ -1,67 +1,27 @@
-# Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Open Salary
 
-> A curated list of awesome resources about transparent salary policy.
-
-## Companies
-
-| Company  | Culture Handbook  | Open Salary/Formula  |  Open Financials |  
-|---|---|---|---|
-| [Buffer](https://buffer.com/about)  | ✔️  | ✔️  | ✔️  |   
-| [Codurance](https://codurance.com/about-us/our-story/)  | ✔️  |  ✔️ |  ✔️ |   
-| [SoftwareMill](https://softwaremill.com/culture-of-remote-company/) | ✔️  | ✔️  | ✔️  |   
-| [SoftwareMill](https://softwaremill.com/culture-of-remote-company/) | ✔️  | ✔️  | ✔️  |   
-
-## Open Culture Handbooks 📚 
-
-- [18F](https://github.com/18F/handbook)
-- [Armory](https://www.armory.io/blog/how-armory-iterates)
-- [Basecamp](https://github.com/basecamp/handbook)
-- [Bonusly](https://github.com/bonusly/un-handbook)
-- [GitLab](https://about.gitlab.com/handbook)
-- [Nylas](https://github.com/nylas/handbook)
-- [Sourcegraph](https://about.sourcegraph.com/handbook)
-- [Sparksuite](https://handbook.sparksuite.com)
-
-## Salary Formulas
-* [Buffer's Transparent Salary Calculator](https://buffer.com/salary)
-* [Gitlab - Global Compensation Calculator](https://about.gitlab.com/2018/03/23/gitlabs-global-compensation-calculator-the-next-iteration)
-* [Openclassrooms - Evolution And Salary](https://openclassrooms.com/en/courses/3851206-how-do-we-work-at-openclassrooms/6523261-evolution-and-salary)
-* [Payfit - Modèle de rémunération : pourquoi et comment l'élaborer ?](https://blog.payfit.com/modele-de-remuneration.html)
-* [Stackoverflow - How We Pay](https://stackoverflow.com/company/salary/calculator)
-
-
-## Open salary models
-
-* [August - Open Compensation Model for Self-Managed Organizations](https://medium.com/21st-century-organizational-development/the-august-open-compensation-model-for-self-managed-organizations-69f2c5d9649c)
-* [Balsamiq - Our Simple Salary Policy](https://blog.balsamiq.com/salary)
-* [Balsamiq - Devising a Profit Sharing Program for Micro-Multinationals](https://blog.balsamiq.com/profitsharing)
-* [Buffer - The Next Evolution of Transparent Salaries](https://open.buffer.com/salary-formula)
-* [Cogent - How and why an open salary model works](https://cogent.co/blog/how-and-why-an-open-salary-model-works)
-* [Fog Creek - Compensation](https://www.joelonsoftware.com/2000/08/30/fog-creek-compensation/)
-* [Gitlab - Global Compensation](https://about.gitlab.com/handbook/people-operations/global-compensation)
-* [Good Rebels - Why an open salary policy will make our Good Rebels stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger)
-* [Mobingi - Model](https://medium.com/@waylandzhang/open-salary-model-at-mobingi-41b728d73e7e)
-* [Multunus - Our Autonomous Compensation System](https://github.com/multunus/Open-Playbook#compensation-system)
-* [Niteo - Salary](https://github.com/niteoweb/handbook/blob/master/5_People/salary.md)
-* [Populate - Open salaries](https://medium.com/populate-blog/open-salaries-at-populate-be15df504535)
-* [SumAll - Making a Case for Transparent Salaries](https://blog.sumall.com/journal/making-a-case-for-transparent-salaries.html)
-* [Transloadit - Pay](https://transloadit.com/jobs/#pay)
+> A list of companies, case studies, and videos that help you implement transparent and open salary policy.
 
 ## Videos 🍿
 
-
-| Speaker         |Company   | Talk | Duration |
-|---|---|---|---|
-| Jakub Nabrdalik | 4finance  | [Peer to Peer Salary Review in a Corpo: Case Study](https://www.youtube.com/watch?v=vQMYjpjpelg)  | 50 min |
-| Alexey Voronin |SkrumTek | [Open Salaries: from Employees to Managing Partners](https://www.youtube.com/watch?v=P7_dq2YiHJ8) | 20 min |
-| Konstantin Hasse | Travis | [How We Replaced Salary Negotiations with a Sinatra App](https://www.youtube.com/watch?v=N8u9H6JDAzo) | 40 min|
+- [Peer to Peer Salary Review in a Corpo: Case Study](https://www.youtube.com/watch?v=vQMYjpjpelg) by Jakub Nabrdalik
+- [Open Salaries: from Employees to Managing Partners](https://www.youtube.com/watch?v=P7_dq2YiHJ8) by Alexey Voronin
+- [How We Replaced Salary Negotiations with a Sinatra App](https://www.youtube.com/watch?v=N8u9H6JDAzo) by Konstantin Hasse
 
 
-## Books  👓
-- [Management 3.0](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471/?tag=sizovs-20)
-
-## Articles 👓
-- [Introducing Open Salaries at Buffer](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
-- [P2P Salary Review](http://blog.solidcraft.eu/2015/11/p2p-salary-review.html)
-- [Open Salaries: How](https://blog.lunarlogic.io/2015/open-salaries-how/) and [Open Salaries: Outcomes](https://blog.lunarlogic.io/2016/open-salaries-outcomes/)
-- [Salary Formula](https://management30.com/practice/salary-formula/)
+## Case Studies 📚
+- [P2P Salary Review](http://blog.solidcraft.eu/2015/11/p2p-salary-review.html) by Jakub Nabrdalik
+- [Open Salaries: Outcomes](https://blog.lunarlogic.io/2016/open-salaries-outcomes/) by LunarLogic
+- [Introducing Open Salaries at Buffer](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/) by Buffer
+- [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp/) by Basecamp
+- [GitLab’s Global Compensation Calculator: The next iteration](https://about.gitlab.com/blog/2018/03/23/gitlabs-global-compensation-calculator-the-next-iteration/) by GitLab
+- [Coding Salaries in 2019: Updating the Stack Overflow Salary Calculator](https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/) by StackOverflow
+- [How Do We Work at OpenClassrooms](https://openclassrooms.com/en/courses/3851206-how-do-we-work-at-openclassrooms/6523261-evolution-and-salary) by OpenClassrooms
+- [Salaries at Codurance](https://codurance.com/2019/05/02/salaries-at-codurance/) by Codurance
+- [Career at Niteo](https://github.com/niteoweb/handbook/blob/master/5_People/career.md) by Niteo
+- [Our Autonomous Compensation System](https://github.com/multunus/Open-Playbook#compensation-system) by Multunus
+- [Why an open salary policy will make our Good Rebels stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger/) by Good Rebels
+- [Fog Creek Compensation](https://www.joelonsoftware.com/2000/08/30/fog-creek-compensation/) by Fog Creek
+- [How and Why Open Salary Model Works](https://cogent.co/blog/open-salaries/) by Cogent
+- [Devising a Profit Sharing Program for Micro-Multinationals](https://blog.balsamiq.com/profitsharing/) by Balsamiq
+- [The August Open Compensation Model for Self-Managed Organizations](https://medium.com/21st-century-organizational-development/the-august-open-compensation-model-for-self-managed-organizations-69f2c5d9649c) by August
