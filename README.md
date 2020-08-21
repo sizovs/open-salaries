@@ -34,6 +34,6 @@
 - [Why an Open Salary Policy Will Make Our Good Rebels Stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger/) by Good Rebels
 
 <br/>
-<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
-<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/sizovs/open-salary#"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/sizovs/open-salary#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
 
