@@ -3,6 +3,10 @@
 <p align="center">A list of companies, case studies, and videos that help you implement transparent and open salary policy.
 </p>
 
+<p align="center">
+    <a href="https://twitter.com/intent/tweet?text=A%20list%20of%20companies,%20case%20studies,%20and%20videos%20that%20help%20you%20implement%20transparent%20and%20open%20salary%20policy&url=https://github.com/sizovs/open-salary&hashtags=buffer,gitlab,basecamp"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>
+</p><br/><br/>
+
 ## Videos 🍿
 
 - [How We Replaced Salary Negotiations with a Sinatra App](https://www.youtube.com/watch?v=N8u9H6JDAzo) by Konstantin Hasse
