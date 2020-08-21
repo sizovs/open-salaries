@@ -32,3 +32,8 @@
 - [Salaries at Codurance](https://codurance.com/2019/05/02/salaries-at-codurance/) by Codurance
 - [The August Open Compensation Model for Self-Managed Organizations](https://medium.com/21st-century-organizational-development/the-august-open-compensation-model-for-self-managed-organizations-69f2c5d9649c) by August
 - [Why an Open Salary Policy Will Make Our Good Rebels Stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger/) by Good Rebels
+
+<br/>
+<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
+
