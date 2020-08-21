@@ -4,6 +4,7 @@
 
 ## Videos 🍿
 
+- [Why Do We Keep Our Salaries Secret?](https://www.youtube.com/watch?v=iNgB-j4-5HY) by David Burkus
 - [Peer to Peer Salary Review in a Corpo: Case Study](https://www.youtube.com/watch?v=vQMYjpjpelg) by Jakub Nabrdalik
 - [Open Salaries: from Employees to Managing Partners](https://www.youtube.com/watch?v=P7_dq2YiHJ8) by Alexey Voronin
 - [How We Replaced Salary Negotiations with a Sinatra App](https://www.youtube.com/watch?v=N8u9H6JDAzo) by Konstantin Hasse
