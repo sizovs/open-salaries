@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="image.png" alt="Open salary logo" height="300"/></a></p>
-<h1 align="center">Open Salary</h1>
+<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="image.png" alt="Open salaries logo" height="300"/></a></p>
+<h1 align="center">Open Salaries</h1>
 <p align="center">A list of companies, case studies, and videos that help you implement transparent and open salary policy.
 </p>
 
