@@ -30,7 +30,7 @@
 - [Open Salary Formula to become a transparent company](https://management30.com/blog/open-salary-formula/) by Keepler (🇪🇸 Spain)
 - [Our Autonomous Compensation System](https://github.com/multunus/Open-Playbook#compensation-system) by Multunus (🇮🇳 India)
 - [P2P Salary Review](http://blog.solidcraft.eu/2015/11/p2p-salary-review.html) by Jakub Nabrdalik
-- [Salaries at Codurance](https://codurance.com/2019/05/02/salaries-at-codurance/) by Codurance (🇬🇧 United Kingdom)
+- [Open Financials](https://www.codurance.com/publications/2016/02/22/open-financials) by Codurance (🇬🇧 United Kingdom)
 - [The August Open Compensation Model for Self-Managed Organizations](https://medium.com/21st-century-organizational-development/the-august-open-compensation-model-for-self-managed-organizations-69f2c5d9649c) by August (California, 🇺🇸 USA)
 - [Why an Open Salary Policy Will Make Our Good Rebels Stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger/) by Good Rebels (🇪🇸 Spain)
 
