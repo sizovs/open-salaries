@@ -21,6 +21,7 @@
 - [Coding Salaries in 2019: Updating the Stack Overflow Salary Calculator](https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/) by StackOverflow (New York, 🇺🇸 USA)
 - [Devising a Profit Sharing Program for Micro-Multinationals](https://blog.balsamiq.com/profitsharing/) by Balsamiq (California, 🇺🇸 USA)
 - [Fog Creek Compensation](https://www.joelonsoftware.com/2000/08/30/fog-creek-compensation/) by Fog Creek (New York, 🇺🇸 USA)
+- [Getting to SoftwareMill's open salary system](https://softwaremill.com/getting-to-softwaremills-open-salary-system/) by SoftwareMill (🇵🇱 Poland)
 - [GitLab’s Global Compensation Calculator: The next iteration](https://about.gitlab.com/blog/2018/03/23/gitlabs-global-compensation-calculator-the-next-iteration/) by GitLab (California, 🇺🇸 USA)
 - [How Do We Work at OpenClassrooms](https://openclassrooms.com/en/courses/3851206-how-do-we-work-at-openclassrooms/6523261-evolution-and-salary) by OpenClassrooms (🇫🇷 France)
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp/) by Basecamp (Illinois, 🇺🇸 USA)
