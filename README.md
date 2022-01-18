@@ -33,6 +33,7 @@
 - [P2P Salary Review](http://blog.solidcraft.eu/2015/11/p2p-salary-review.html) by Jakub Nabrdalik
 - [Open Financials](https://www.codurance.com/publications/2016/02/22/open-financials) by Codurance (🇬🇧 United Kingdom)
 - [The August Open Compensation Model for Self-Managed Organizations](https://medium.com/21st-century-organizational-development/the-august-open-compensation-model-for-self-managed-organizations-69f2c5d9649c) by August (California, 🇺🇸 USA)
+- [Traffit Pathways](https://www.traffit.com/en/traffit-pathways) by Traffit (🇵🇱 Poland)
 - [Why an Open Salary Policy Will Make Our Good Rebels Stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger/) by Good Rebels (🇪🇸 Spain)
 
 ## For contributors
