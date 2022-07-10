@@ -19,6 +19,7 @@
 ## Case Studies 📚
 - [Career at Niteo](https://github.com/niteoweb/handbook/blob/master/5_People/career.md) by Niteo (🇱🇮 Liechtenstein)
 - [Coding Salaries in 2019: Updating the Stack Overflow Salary Calculator](https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/) by StackOverflow (New York, 🇺🇸 USA)
+- [Compensation as a Reflection of Values](https://oxide.computer/blog/compensation-as-a-reflection-of-values) by Oxide (California, 🇺🇸 USA)
 - [Devising a Profit Sharing Program for Micro-Multinationals](https://blog.balsamiq.com/profitsharing/) by Balsamiq (California, 🇺🇸 USA)
 - [Fog Creek Compensation](https://www.joelonsoftware.com/2000/08/30/fog-creek-compensation/) by Fog Creek (New York, 🇺🇸 USA)
 - [Getting to SoftwareMill's open salary system](https://softwaremill.com/getting-to-softwaremills-open-salary-system/) by SoftwareMill (🇵🇱 Poland)
