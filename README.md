@@ -9,6 +9,7 @@
 
 ## Videos 🍿
 
+- [How to Implement Salary Formula from Scratch?](https://www.youtube.com/watch?v=ta3KpWFU5vU) by Jacek Wieczorek
 - [How We Replaced Salary Negotiations with a Sinatra App](https://www.youtube.com/watch?v=N8u9H6JDAzo) by Konstantin Hasse
 - [Open Salaries](https://www.youtube.com/watch?v=sf5r4yLTc9k) by Martin Andrews
 - [Open Salaries: from Employees to Managing Partners](https://www.youtube.com/watch?v=P7_dq2YiHJ8) by Alexey Voronin
