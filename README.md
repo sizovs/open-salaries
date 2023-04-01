@@ -18,6 +18,7 @@
 
 
 ## Case Studies 📚
+- [Badge-based Open Salary System](https://softwaremill.com/softwaremills-badge-based-open-salary-system-explained/) by SoftwareMill (🇵🇱 Poland) 
 - [Career at Niteo](https://github.com/niteoweb/handbook/blob/master/5_People/career.md) by Niteo (🇱🇮 Liechtenstein)
 - [Coding Salaries in 2019: Updating the Stack Overflow Salary Calculator](https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/) by StackOverflow (New York, 🇺🇸 USA)
 - [Compensation as a Reflection of Values](https://oxide.computer/blog/compensation-as-a-reflection-of-values) by Oxide (California, 🇺🇸 USA)
@@ -31,13 +32,13 @@
 - [Introducing Open Salaries at Buffer](https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/) by Buffer (California, 🇺🇸 USA)
 - [Open Salaries: Outcomes](https://blog.lunarlogic.io/2016/open-salaries-outcomes/) by LunarLogic (Oregon, 🇺🇸 USA)
 - [Open Salary Formula to become a transparent company](https://management30.com/blog/open-salary-formula/) by Keepler (🇪🇸 Spain)
+- [Open Salaries at Sahaj](https://sahaj.ai/stories/open-salaries), [BBC Discussion](https://www.bbc.co.uk/programmes/p0cl3ws5) at Sahaj.ai (🇮🇳 India)
 - [Our Autonomous Compensation System](https://github.com/multunus/Open-Playbook#compensation-system) by Multunus (🇮🇳 India)
 - [P2P Salary Review](http://blog.solidcraft.eu/2015/11/p2p-salary-review.html) by Jakub Nabrdalik
 - [Open Financials](https://www.codurance.com/publications/2016/02/22/open-financials) by Codurance (🇬🇧 United Kingdom)
 - [The August Open Compensation Model for Self-Managed Organizations](https://medium.com/21st-century-organizational-development/the-august-open-compensation-model-for-self-managed-organizations-69f2c5d9649c) by August (California, 🇺🇸 USA)
 - [Traffit Pathways](https://www.traffit.com/en/traffit-pathways) by Traffit (🇵🇱 Poland)
 - [Why an Open Salary Policy Will Make Our Good Rebels Stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger/) by Good Rebels (🇪🇸 Spain)
-- [Open Salaries at Sahaj](https://sahaj.ai/stories/open-salaries), [BBC Discussion](https://www.bbc.co.uk/programmes/p0cl3ws5) at Sahaj.ai (🇮🇳 India)
 
 ## For contributors
 Please keep the alphabetical list ordering.
