@@ -23,6 +23,7 @@
 - [Coding Salaries in 2019: Updating the Stack Overflow Salary Calculator](https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/) by StackOverflow (New York, 🇺🇸 USA)
 - [Compensation as a Reflection of Values](https://oxide.computer/blog/compensation-as-a-reflection-of-values) by Oxide (California, 🇺🇸 USA)
 - [Devising a Profit Sharing Program for Micro-Multinationals](https://blog.balsamiq.com/profitsharing/) by Balsamiq (California, 🇺🇸 USA)
+- [Engineering Team Levels at Wise](https://www.wise.jobs/engineering-career-map/) by Wise (🌎 Global)
 - [Fog Creek Compensation](https://www.joelonsoftware.com/2000/08/30/fog-creek-compensation/) by Fog Creek (New York, 🇺🇸 USA)
 - [Getting to SoftwareMill's open salary system](https://softwaremill.com/getting-to-softwaremills-open-salary-system/) by SoftwareMill (🇵🇱 Poland)
 - [GitLab’s Global Compensation Calculator: The next iteration](https://about.gitlab.com/blog/2018/03/23/gitlabs-global-compensation-calculator-the-next-iteration/) by GitLab (California, 🇺🇸 USA)
