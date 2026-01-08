@@ -42,6 +42,9 @@
 - [Traffit Pathways](https://www.traffit.com/en/traffit-pathways) by Traffit (🇵🇱 Poland)
 - [Why an Open Salary Policy Will Make Our Good Rebels Stronger](https://www.goodrebels.com/why-an-open-salary-policy-will-make-our-good-rebels-stronger/) by Good Rebels (🇪🇸 Spain)
 
+## Tools
+- [Percival](http://percival.live/) – Fair compensation for agile teams
+
 ## For contributors
 Please keep the alphabetical list ordering.
 
